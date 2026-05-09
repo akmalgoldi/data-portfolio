@@ -4,7 +4,7 @@ Informatics student at UIN Sunan Kalijaga · Semester 6
 Currently in **Tempa led by Dicoding** — AI Engineer track  
 Looking for a **Data Analyst internship** · Moving toward **Data Science & ML**
 
-[email] · [LinkedIn] · [Yogyakarta, Indonesia]
+[akmalgoldi01@gmail.com] · [https://www.linkedin.com/in/akmalgoldi?utm_source=share_via&utm_content=profile&utm_medium=member_ios] · [Yogyakarta, Indonesia]
 
 ---
 
@@ -56,4 +56,3 @@ Open to **Data Analyst internship** roles where I can contribute real analytical
 
 If you're working on something data-related and want to talk, feel free to reach out.
 
-[email] · [LinkedIn]
